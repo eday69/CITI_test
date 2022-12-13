@@ -16,10 +16,13 @@ git --version
 
 If it doesn’t return a version you will need to install Git. Go to https://git-scm.com/ , download GIT and install it on your computer.
 
+Clone the Repository:
+1.  need to update this section with the directions
 
 To update this file:
 1.  Create a branch to alter this file on.  git checkout -b jeansBranch
 2.  Save the edited version of the file.
 3.  Push the branch to Eric's repository.  git push origin jeansBranch
-4.  Next step is to create a merge request  TAG -- next person keep improving this set of instructions!
+4.  There is a green pull request button when viewing your branch at https://github.com/eday69/CITI_test.  Make sure you are logged in to github in order for the pull request to be an option.
+5.  
 
