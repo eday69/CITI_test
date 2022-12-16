@@ -23,3 +23,5 @@ To update this file:
 3.  Push the branch to Eric's repository.  git push origin jeansBranch
 4.  Next step is to create a merge request  TAG -- next person keep improving this set of instructions!
 
+Hello
+Hello
