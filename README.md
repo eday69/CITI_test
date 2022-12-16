@@ -24,4 +24,3 @@ To update this file:
 4.  Next step is to create a merge request  TAG -- next person keep improving this set of instructions!
 
 Hello
-Hello
